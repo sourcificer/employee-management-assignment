@@ -15,7 +15,7 @@
     "management",
     "employee"
   ],
-  "author": "",
+  "author": "sourcificer",
   "license": "ISC",
   "dependencies": {
     "dotenv": "^10.0.0",
